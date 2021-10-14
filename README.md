@@ -26,7 +26,7 @@ and then in the terminal type
 ```
 serve
 ```
-This will initiate a node server and serve the index.html file.
+This will initiate a node server and serve the index.html file. Go to the given URL in the terminal to see the web project in action
 
 
 #Usage:
