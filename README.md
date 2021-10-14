@@ -15,13 +15,13 @@ In another repository I have designed a reusable custom table UI component. This
 
 # Prerequisites:
 
-A server: To run the project go to "assignmentLIFEXdeployed\mytable-in-action" and type the following:
+A server: You can use npm serve which would host your index.html page on a local server.
 
 ```
 npm install -g serve
 ```
 
-and then in the terminal type 
+To run the project go to "assignmentLIFEXdeployed\mytable-in-action" and then in the terminal type 
 
 ```
 serve
@@ -29,7 +29,7 @@ serve
 This will initiate a node server and serve the index.html file. Go to the given URL in the terminal to see the web project in action
 
 
-#Usage:
+# Usage:
 Create a new folder. You would need to copy all the files except index.html in the mytable-in-action folder. Make a new html file. Then in the body where you need the component include as such
 
 ```
@@ -48,6 +48,12 @@ Create a new folder. You would need to copy all the files except index.html in t
 <!-- Following code -->
 </body>
 ```
+To run the project go to "assignmentLIFEXdeployed\mytable-in-action" and then in the terminal type 
+
+```
+serve
+```
+This will initiate a node server and serve the index.html file. Go to the given URL in the terminal to see the web project in action
 
 
 # UI Guide:
